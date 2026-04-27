@@ -2,6 +2,10 @@
 
 A multi-agent system for emotional well-being support that leverages local LLM models to provide journaling, coaching, and wellness tracking.
 
+## Screenshot
+
+![MentalHealthCompanion](MentalHealthCompanion.png)
+
 ## Features
 
 - **Multi-Agent Architecture**: Three specialized agents work together to provide comprehensive mental health support
@@ -70,8 +74,8 @@ The application will open in your browser at `http://localhost:8501`
 
 1. **Enter Daily Mood**: Rate how you're feeling today
 2. **Enter Journal Entry**: Write about your thoughts and experiences
-3. **Select Agent Mode**: Choose between reflection, cognitive reframe, or wellness tracking
-4. **Click "Run Wellness Session"**: The agents will collaborate to provide support
+3. **Click "Run Support Team"**: The agents will collaborate to provide support
+4. **Review Results**: Inspect the responses plus the collaboration log for the session
 
 ### Project Structure
 
